@@ -16,12 +16,7 @@ I also learnt more about the workings of Canadian law and how it is changing to 
 All things considered, this project has been a wonderful educational opportunity that has promoted critical thinking and a sophisticated comprehension of the relationship between institutional frameworks, gender, and secularism.
 
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+
 ```
 
 
