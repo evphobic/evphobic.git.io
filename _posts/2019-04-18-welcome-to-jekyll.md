@@ -17,7 +17,5 @@ All things considered, this project has been a wonderful educational opportunity
 
 
 
-```
-
 
 
