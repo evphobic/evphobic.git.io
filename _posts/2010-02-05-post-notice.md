@@ -1,68 +1,17 @@
 ---
-title: "Post: Notice"
+title: "Post: Passive yet Drastic"
 categories:
   - Blog
+  - Digital project
 tags:
-  - Post Formats
-  - notice
+  - Post Format
+  - woman and religion
+  - class
 ---
+**Info Notice:** Read the blog post [Secularism: A history lesson](#). To learn more about what secularism is and the concepts it's built off of for background knowledge about this post. {: .notice--info}
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+How much religion is too much? If someone asked you right now to pick between being treated equally but having to give up your religion or being who you are knowing you won’t be treated equally for it what would you choose? Think about it. It’s a hypothetical question though so it doesn’t have to be taken seriously…right? But what if it wasn’t. That’s the reality of what it’s like for a lot of religious identifying women of colour in society. Being faced with choices such as picking between being faithful in your religion or treated fairly as a woman in your own workplace. As a minority within a minority the perspective of feeling isolated in a place you’d call your home is an unfortunate situation a lot of Canadian women are faced with. Especially when that treatment is portrayed through the actions of your own government. Within the constant progression towards secularism and fair treatment, the hyperfocus of one goal has now become a tunnel vision journey blind to the consequences. But how do we call these actions out? Where do we begin to define such terms? Well luckily for you guys I’ve done the research, I looked up the terms and have calculated all the numbers (there were little to no numbers involved). So have no fear, I’m here to tell you what’s going on, who’s involved, and what we (the government) could do. To say it in a more professional tone, this blog post seeks to investigate how secular frameworks may reinforce gender bias and religious discrimination in modern Canada, and introduce a transformative approach for public institutions and legislation to advance gender equality and dismantle misogynistic structures. But to do thst you need to do some basic term learning. Luckily I have another post that helps you with exactly that! So if you haven't already go check it out and then come back and let's discuss!
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
-
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
-
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
