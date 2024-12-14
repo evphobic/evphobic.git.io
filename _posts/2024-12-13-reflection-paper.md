@@ -1,8 +1,5 @@
 
----
-layout: post
-author: Eve Wasuk
----
+
 
 My investigation was based on the thesis of my 
 digital project, which reads, 
