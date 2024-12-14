@@ -3,18 +3,6 @@
 layout: post
 author: Eve Wasuk
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
-
-{{ content }}
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
----
 
 My investigation was based on the thesis of my 
 digital project, which reads, 
